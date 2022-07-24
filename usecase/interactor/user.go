@@ -15,7 +15,7 @@ usecase/port の UserInputPort を実装
 import (
 	"context"
 
-	"github.com/arkuchy/clean-architecture-sample-sample/usecase/port"
+	"example.com/practice-clean-architecture/usecase/port"
 )
 
 type User struct {
